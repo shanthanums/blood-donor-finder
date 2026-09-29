@@ -24,3 +24,10 @@ python app.py
 - Search for blood donors by blood group
 - Register as a blood donor
 - Find donors in your area
+
+## Usage
+
+1. Open your browser and navigate to http://localhost:5000
+2. Search for blood donors by blood group
+3. Register as a new donor
+
