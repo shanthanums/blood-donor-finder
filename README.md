@@ -1,6 +1,6 @@
 # Blood Donor Finder
 
-Blood Donor Finder - An advanced life-saving application for emergency blood donor matching.
+Blood Donor Finder - An advanced life-saving platform connecting blood donors with patients in need for emergency blood donor matching worldwide.
 
 A software engineering project for finding blood donors.
 
