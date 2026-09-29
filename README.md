@@ -18,3 +18,9 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+
+## Features
+
+- Search for blood donors by blood group
+- Register as a blood donor
+- Find donors in your area
