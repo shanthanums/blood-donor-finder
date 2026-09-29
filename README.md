@@ -1,6 +1,6 @@
 # Blood Donor Finder
 
-Blood Donor Finder - A web app to find nearby blood donors.
+Blood Donor Finder - A web application to search and connect with nearby blood donors quickly and efficiently.
 
 A software engineering project for finding blood donors.
 
